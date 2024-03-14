@@ -11,6 +11,7 @@ El puntaje que obtuve fue **0.8123**, en ese entonces (Septiembre 2023) ocupé l
 \
 \
 En términos generales, acerca del código en Python, resalto el uso de la librería `missingno` para visualizar registros nulos, la librería `IterativeImputer` para imputar registros nulos considerando la información que puedan aportar las otras variables del conjunto de datos, y la librería `SMOTE` (sí, esa que muchos odian 😅) para generar registros sintéticos dado el gran desbalance de las clases contenidas en la variable objetivo.
-\
-\
+
+<br />
+
 **⚠️🚧ESPERA PRONTO LA ACTUALIZACIÓN DE ESTE REPOSITORIO 🚧⚠️**
