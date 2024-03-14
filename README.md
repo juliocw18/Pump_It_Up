@@ -2,7 +2,7 @@
   <img src="GitHub_Banner_Pump_It_Up.png"/>
 </div>
 
-# Predicción del estado de bombas de agua 🇹🇿🚰
+# Predicción del estado de bombas de agua 🚰
 
 Hola 👋, en este repositorio les presento un ejercicio muy interesante que realicé para una de las asignaciones en el máster. Participamos individualmente en una competencia de [Drivendata](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/), la cual tenía el objetivo de **predecir el estado de unas bombas de agua en Tanzania 🇹🇿**. Cuando participamos (Septiembre 2023), la fecha final de la competencia era aproxamadamente Febrero 2024, ahora la fecha se extendió para Octubre 2024. El máximo puntaje (Classification Rate) hoy en día está en **0.8294**.
 
